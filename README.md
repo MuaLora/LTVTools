@@ -31,7 +31,7 @@ win64, maci64, glnxa64
 * Finite horizon controllability and observability gramian for CT-LTV systems
 
 ## List of Contributors 
-* University of California Berkeley 
+* University of California, Berkeley 
   - Andrew Packard (Professor of Mechanical Engineering) 
   - Murat Arcak (Professor of Electrical Engineering) 
   - Galaxy Yin, Kate Schweidel, Emmanuel Sin (Current Graduate Students)
@@ -39,7 +39,7 @@ win64, maci64, glnxa64
     - Robert Moore (Systems Engineer, Raytheon Space and Airborne Systems) 
     - Chris Meissen (Research Scientist, Ford Motor Company) 
 
-* University of Minnesota Twin-Cities 
+* University of Minnesota, Twin-Cities 
   - Peter Seiler (Associate Professor of Aerospace Engineering and Mechanics) 
   - Jyot Buch (Graduate Student)
 
