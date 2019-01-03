@@ -46,8 +46,8 @@ win64, maci64, glnxa64
 ## Provide Feedback
 * For any suggestions on future enhancement or nice to have features of these tools and reporting bugs, please email following people at the department of Aerospace Engineering and Mechanics, University of Minnesota, Twin Cities.
 
-  - Jyot R. Buch (Ph.D. Student) - buch0271@umn.edu
-  - Peter J. Seiler (Associate Professor) - seile017@umn.edu
+  - Peter Seiler - seile017@umn.edu
+  - Jyot Buch - buch0271@umn.edu
   
 ## Acknowledgements
 * These software tools are being developed by joint effort of University of Minnesota, Twin Cities and University of California, Berkeley with the support from US Office of Naval Research (ONR) grant N00014-18-1-2209.
